@@ -1,49 +1,28 @@
----
-title: "Onkar Singh Jaswani - MBA Portfolio"
+# Business Card
 
-## About Me 
-
-I am an MBA candidate at University Canada West, passionate about driving business growth through data-driven strategies, leadership, and innovation.  
-With experience in Customer Acquisition and Operations Management, I bring a unique blend of strategic thinking, analytical skills, and collaborative leadership.  
-My interests include emerging technologies, market strategy, and organizational development. I am particularly passionate about leveraging analytics and innovation to solve complex business challenges and create sustainable value. Outside of work, I enjoy networking, continuous learning, and exploring global business trends.
+This is a simple, elegant digital business card project created by **Onkar Singh Jaswani**.  
+It showcases contact details, a professional headshot, and links for easy networking.
 
 ---
 
-## Skills 
-
-- Data-Driven Strategy  
-- Customer Acquisition  
-- Operations Management  
-- Leadership & Team Management  
-- Business Analytics
+![Onkar Headshot](https://github.com/onkarsinghjaswani/Business-card/raw/b4f8010e8f7900437cc7c3e40afb43b71dda1d3a/onkar%20headshot.jpg)
 
 ---
 
-## Education
+## 📇 Contact Information
 
-**Master of Business Administration (MBA)**  
-*University Canada West* | 2025  
-– Relevant coursework: Strategic Management, Corporate Finance, Marketing Analytics  
-– Leadership roles: Vice Captain of Cricket Team
+- **Name:** Onkar Singh Jaswani  
+- **Email:** [your-email@example.com]  
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- **GitHub:** [github.com/onkarsinghjaswani](https://github.com/onkarsinghjaswani)
 
-**Bachelor of Business Administration (BBA)**  
-*GLS University* | 2023  
-– Major: Finance  
-– Activities: Best Sportsman of the Year
+## ✨ Features
 
----
+- Clean and minimal business card design  
+- Easy to update contact details  
+- Includes a professional photo  
+- Fully responsive (optional if you’re building a web version)
 
-## Professional Experience 
+## 🚀 Getting Started
 
-**Business Development Manager**  
-*Simran Enterprise* | June 2020 – November 2023  
-– Led business expansion and acquired 28 new local clients  
-– Managed shipping and receiving operations, improving efficiency by 20%  
-– Fostered strong client relationships for sustained business growth
-
----
-
-## Contact
-
-- **Email**: onkarsingh.jaswani@myucewst.ca  
-- **LinkedIn**: [linkedin.com/in/onkarjaswani](https://www.linkedin.com/in/onkar-singh-jaswani-7a5ba21b6)
+1. Clone
